@@ -13,6 +13,7 @@
     <artifactId>frontend</artifactId>
 
     <build>
+        <!-- npm start -->
 
         <resources>
             <resource>
